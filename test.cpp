@@ -6,7 +6,7 @@
 /*   By: ldoppler <ldoppler@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/25 11:48:37 by ldoppler          #+#    #+#             */
-/*   Updated: 2024/07/25 11:59:59 by ldoppler         ###   ########.fr       */
+/*   Updated: 2024/07/25 12:07:45 by ldoppler         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,5 +14,6 @@
 
 int main()
 {
+    std::cout << "Hello World !" << std::endl;
 	return (0);
 }
